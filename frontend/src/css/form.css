@@ -1,0 +1,76 @@
+.box{
+    background-image: url("../images/cory-bjork--V0YGn1pjzE-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    background-position: center;
+    position: relative;
+}
+.box1{
+    background-image: url("../images/sj-XKH0OBD632o-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    background-position: center;
+    position: relative;
+}
+.box2{
+    background-image: url("../images/claudia-soares-HwR77Ugj7Q0-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    background-position: center;
+    position: relative;
+}
+.box3{
+    background-image: url("../images/davey-gravy-BUfbVXqAt1A-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    background-position: center;
+    position: relative;
+}
+.box4{
+    background-image: url("../images/ibrahim-boran-aBNPslolmJM-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1cm;
+    padding-bottom: 5.5cm;
+    background-position: center;
+    position: relative;
+}
+
+.box5{
+    background-image: url("../images/maddi-bazzocco-zQbgBMXsKGg-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1cm;
+    padding-bottom: 5.5cm;
+    background-position: center;
+    position: relative;
+}
+
+.box6{
+    background-image: url("../images/sj-XKH0OBD632o-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1cm;
+    padding-bottom: 5.5cm;
+    background-position: center;
+    position: relative;
+}
+#logo-hotel{
+    background-image: url("../images/logo_123.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+
+
+
